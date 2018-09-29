@@ -1,0 +1,1094 @@
+[
+  {
+    "label": "Assault Auto",
+    "chance": 0.33799999999999997,
+    "children": [
+      [
+        {
+          "name": "Assault Rifle (M4) (Common)",
+          "chance": 0.484
+        },
+        {
+          "name": "Assault Rifle (M4) (Uncommon)",
+          "chance": 0.242
+        },
+        {
+          "name": "Assault Rifle (M4) (Rare)",
+          "chance": 0.09699999999999999
+        },
+        {
+          "name": "Assault Rifle (Scoped) (Rare)",
+          "chance": 0.048
+        },
+        {
+          "name": "Assault Rifle (SCAR) (Epic)",
+          "chance": 0.036000000000000004
+        },
+        {
+          "name": "Suppressed Assault Rifle (Epic)",
+          "chance": 0.036000000000000004
+        },
+        {
+          "name": "Assault Rifle (Scoped) (Epic)",
+          "chance": 0.018000000000000002
+        },
+        {
+          "name": "Thermal Scope Assault Rifle (Epic)",
+          "chance": 0.015
+        },
+        {
+          "name": "Assault Rifle (SCAR) (Legendary)",
+          "chance": 0.009000000000000001
+        },
+        {
+          "name": "Suppressed Assault Rifle (Legendary)",
+          "chance": 0.009000000000000001
+        },
+        {
+          "name": "Thermal Scope Assault Rifle (Legendary)",
+          "chance": 0.005
+        }
+      ],
+      [
+        {
+          "name": "Medium Bullets",
+          "chance": 1
+        }
+      ],
+      [
+        {
+          "name": "Shield Potion",
+          "chance": 0.18899999999999997
+        },
+        {
+          "name": "Bandage",
+          "chance": 0.158
+        },
+        {
+          "name": "Grenade",
+          "chance": 0.126
+        },
+        {
+          "name": "Small Shield Potion",
+          "chance": 0.126
+        },
+        {
+          "name": "Med Kit",
+          "chance": 0.063
+        },
+        {
+          "name": "Clinger",
+          "chance": 0.063
+        },
+        {
+          "name": "Slurp Juice",
+          "chance": 0.051
+        },
+        {
+          "name": "Boogie Bomb",
+          "chance": 0.038
+        },
+        {
+          "name": "Port-a-Fort",
+          "chance": 0.032
+        },
+        {
+          "name": "Rift-To-Go",
+          "chance": 0.032
+        },
+        {
+          "name": "Grappler (Legendary)",
+          "chance": 0.032
+        },
+        {
+          "name": "Stink Bomb",
+          "chance": 0.025
+        },
+        {
+          "name": "Port-a-Fortress",
+          "chance": 0.025
+        },
+        {
+          "name": "Chug Jug",
+          "chance": 0.021
+        },
+        {
+          "name": "Bush",
+          "chance": 0.019
+        }
+      ],
+      [
+        {
+          "name": "Wood",
+          "chance": 0.47600000000000003
+        },
+        {
+          "name": "Stone",
+          "chance": 0.35700000000000004
+        },
+        {
+          "name": "Metal",
+          "chance": 0.16699999999999998
+        }
+      ]
+    ]
+  },
+  {
+    "label": "Assault",
+    "chance": 0.19899999999999998,
+    "children": [
+      [
+        {
+          "name": "Assault Rifle (Burst) (Common)",
+          "chance": 0.614
+        },
+        {
+          "name": "Assault Rifle (Burst) (Uncommon)",
+          "chance": 0.24600000000000002
+        },
+        {
+          "name": "Assault Rifle (Burst) (Rare)",
+          "chance": 0.092
+        },
+        {
+          "name": "Assault Rifle (Burst Rare) (Epic)",
+          "chance": 0.037000000000000005
+        },
+        {
+          "name": "Assault Rifle (Burst Rare) (Legendary)",
+          "chance": 0.012
+        }
+      ],
+      [
+        {
+          "name": "Medium Bullets",
+          "chance": 1
+        }
+      ],
+      [
+        {
+          "name": "Shield Potion",
+          "chance": 0.18899999999999997
+        },
+        {
+          "name": "Bandage",
+          "chance": 0.158
+        },
+        {
+          "name": "Grenade",
+          "chance": 0.126
+        },
+        {
+          "name": "Small Shield Potion",
+          "chance": 0.126
+        },
+        {
+          "name": "Med Kit",
+          "chance": 0.063
+        },
+        {
+          "name": "Clinger",
+          "chance": 0.063
+        },
+        {
+          "name": "Slurp Juice",
+          "chance": 0.051
+        },
+        {
+          "name": "Boogie Bomb",
+          "chance": 0.038
+        },
+        {
+          "name": "Port-a-Fort",
+          "chance": 0.032
+        },
+        {
+          "name": "Rift-To-Go",
+          "chance": 0.032
+        },
+        {
+          "name": "Grappler (Legendary)",
+          "chance": 0.032
+        },
+        {
+          "name": "Stink Bomb",
+          "chance": 0.025
+        },
+        {
+          "name": "Port-a-Fortress",
+          "chance": 0.025
+        },
+        {
+          "name": "Chug Jug",
+          "chance": 0.021
+        },
+        {
+          "name": "Bush",
+          "chance": 0.019
+        }
+      ],
+      [
+        {
+          "name": "Wood",
+          "chance": 0.47600000000000003
+        },
+        {
+          "name": "Stone",
+          "chance": 0.35700000000000004
+        },
+        {
+          "name": "Metal",
+          "chance": 0.16699999999999998
+        }
+      ]
+    ]
+  },
+  {
+    "label": "SMG",
+    "chance": 0.179,
+    "children": [
+      [
+        {
+          "name": "Submachine Gun (Common)",
+          "chance": 0.6509999999999999
+        },
+        {
+          "name": "Submachine Gun (Uncommon)",
+          "chance": 0.217
+        },
+        {
+          "name": "Submachine Gun (Rare)",
+          "chance": 0.073
+        },
+        {
+          "name": "Compact Gun (Epic)",
+          "chance": 0.043
+        },
+        {
+          "name": "Compact Gun (Legendary)",
+          "chance": 0.016
+        }
+      ],
+      [
+        {
+          "name": "Light Bullets",
+          "chance": 1
+        }
+      ],
+      [
+        {
+          "name": "Shield Potion",
+          "chance": 0.18899999999999997
+        },
+        {
+          "name": "Bandage",
+          "chance": 0.158
+        },
+        {
+          "name": "Grenade",
+          "chance": 0.126
+        },
+        {
+          "name": "Small Shield Potion",
+          "chance": 0.126
+        },
+        {
+          "name": "Med Kit",
+          "chance": 0.063
+        },
+        {
+          "name": "Clinger",
+          "chance": 0.063
+        },
+        {
+          "name": "Slurp Juice",
+          "chance": 0.051
+        },
+        {
+          "name": "Boogie Bomb",
+          "chance": 0.038
+        },
+        {
+          "name": "Port-a-Fort",
+          "chance": 0.032
+        },
+        {
+          "name": "Rift-To-Go",
+          "chance": 0.032
+        },
+        {
+          "name": "Grappler (Legendary)",
+          "chance": 0.032
+        },
+        {
+          "name": "Stink Bomb",
+          "chance": 0.025
+        },
+        {
+          "name": "Port-a-Fortress",
+          "chance": 0.025
+        },
+        {
+          "name": "Chug Jug",
+          "chance": 0.021
+        },
+        {
+          "name": "Bush",
+          "chance": 0.019
+        }
+      ],
+      [
+        {
+          "name": "Wood",
+          "chance": 0.47600000000000003
+        },
+        {
+          "name": "Stone",
+          "chance": 0.35700000000000004
+        },
+        {
+          "name": "Metal",
+          "chance": 0.16699999999999998
+        }
+      ]
+    ]
+  },
+  {
+    "label": "Sniper",
+    "chance": 0.079,
+    "children": [
+      [
+        {
+          "name": "Hunting Rifle (Uncommon)",
+          "chance": 0.308
+        },
+        {
+          "name": "Semi-Auto Sniper Rifle (Epic)",
+          "chance": 0.231
+        },
+        {
+          "name": "Bolt-Action Sniper Rifle (Rare)",
+          "chance": 0.154
+        },
+        {
+          "name": "Hunting Rifle (Rare)",
+          "chance": 0.115
+        },
+        {
+          "name": "Semi-Auto Sniper Rifle (Legendary)",
+          "chance": 0.10800000000000001
+        },
+        {
+          "name": "Bolt-Action Sniper Rifle (Epic)",
+          "chance": 0.038
+        },
+        {
+          "name": "Heavy Sniper (Epic)",
+          "chance": 0.038
+        },
+        {
+          "name": "Heavy Sniper (Legendary)",
+          "chance": 0.008
+        }
+      ],
+      [
+        {
+          "name": "Heavy Bullets",
+          "chance": 1
+        }
+      ],
+      [
+        {
+          "name": "Shield Potion",
+          "chance": 0.18899999999999997
+        },
+        {
+          "name": "Bandage",
+          "chance": 0.158
+        },
+        {
+          "name": "Grenade",
+          "chance": 0.126
+        },
+        {
+          "name": "Small Shield Potion",
+          "chance": 0.126
+        },
+        {
+          "name": "Med Kit",
+          "chance": 0.063
+        },
+        {
+          "name": "Clinger",
+          "chance": 0.063
+        },
+        {
+          "name": "Slurp Juice",
+          "chance": 0.051
+        },
+        {
+          "name": "Boogie Bomb",
+          "chance": 0.038
+        },
+        {
+          "name": "Port-a-Fort",
+          "chance": 0.032
+        },
+        {
+          "name": "Rift-To-Go",
+          "chance": 0.032
+        },
+        {
+          "name": "Grappler (Legendary)",
+          "chance": 0.032
+        },
+        {
+          "name": "Stink Bomb",
+          "chance": 0.025
+        },
+        {
+          "name": "Port-a-Fortress",
+          "chance": 0.025
+        },
+        {
+          "name": "Chug Jug",
+          "chance": 0.021
+        },
+        {
+          "name": "Bush",
+          "chance": 0.019
+        }
+      ],
+      [
+        {
+          "name": "Wood",
+          "chance": 0.47600000000000003
+        },
+        {
+          "name": "Stone",
+          "chance": 0.35700000000000004
+        },
+        {
+          "name": "Metal",
+          "chance": 0.16699999999999998
+        }
+      ]
+    ]
+  },
+  {
+    "label": "Suppressed Handgun",
+    "chance": 0.04,
+    "children": [
+      [
+        {
+          "name": "Suppressed Pistol (Epic)",
+          "chance": 0.833
+        },
+        {
+          "name": "Suppressed Pistol (Legendary)",
+          "chance": 0.16699999999999998
+        }
+      ],
+      [
+        {
+          "name": "Light Bullets",
+          "chance": 1
+        }
+      ],
+      [
+        {
+          "name": "Shield Potion",
+          "chance": 0.18899999999999997
+        },
+        {
+          "name": "Bandage",
+          "chance": 0.158
+        },
+        {
+          "name": "Grenade",
+          "chance": 0.126
+        },
+        {
+          "name": "Small Shield Potion",
+          "chance": 0.126
+        },
+        {
+          "name": "Med Kit",
+          "chance": 0.063
+        },
+        {
+          "name": "Clinger",
+          "chance": 0.063
+        },
+        {
+          "name": "Slurp Juice",
+          "chance": 0.051
+        },
+        {
+          "name": "Boogie Bomb",
+          "chance": 0.038
+        },
+        {
+          "name": "Port-a-Fort",
+          "chance": 0.032
+        },
+        {
+          "name": "Rift-To-Go",
+          "chance": 0.032
+        },
+        {
+          "name": "Grappler (Legendary)",
+          "chance": 0.032
+        },
+        {
+          "name": "Stink Bomb",
+          "chance": 0.025
+        },
+        {
+          "name": "Port-a-Fortress",
+          "chance": 0.025
+        },
+        {
+          "name": "Chug Jug",
+          "chance": 0.021
+        },
+        {
+          "name": "Bush",
+          "chance": 0.019
+        }
+      ],
+      [
+        {
+          "name": "Wood",
+          "chance": 0.47600000000000003
+        },
+        {
+          "name": "Stone",
+          "chance": 0.35700000000000004
+        },
+        {
+          "name": "Metal",
+          "chance": 0.16699999999999998
+        }
+      ]
+    ]
+  },
+  {
+    "label": "High Shotgun",
+    "chance": 0.04,
+    "children": [
+      [
+        {
+          "name": "Heavy Shotgun (Epic)",
+          "chance": 0.376
+        },
+        {
+          "name": "Double Barrel Shotgun (Epic)",
+          "chance": 0.376
+        },
+        {
+          "name": "Heavy Shotgun (Legendary)",
+          "chance": 0.124
+        },
+        {
+          "name": "Double Barrel Shotgun (Legendary)",
+          "chance": 0.124
+        }
+      ],
+      [
+        {
+          "name": "Shells",
+          "chance": 1
+        }
+      ],
+      [
+        {
+          "name": "Shield Potion",
+          "chance": 0.18899999999999997
+        },
+        {
+          "name": "Bandage",
+          "chance": 0.158
+        },
+        {
+          "name": "Grenade",
+          "chance": 0.126
+        },
+        {
+          "name": "Small Shield Potion",
+          "chance": 0.126
+        },
+        {
+          "name": "Med Kit",
+          "chance": 0.063
+        },
+        {
+          "name": "Clinger",
+          "chance": 0.063
+        },
+        {
+          "name": "Slurp Juice",
+          "chance": 0.051
+        },
+        {
+          "name": "Boogie Bomb",
+          "chance": 0.038
+        },
+        {
+          "name": "Port-a-Fort",
+          "chance": 0.032
+        },
+        {
+          "name": "Rift-To-Go",
+          "chance": 0.032
+        },
+        {
+          "name": "Grappler (Legendary)",
+          "chance": 0.032
+        },
+        {
+          "name": "Stink Bomb",
+          "chance": 0.025
+        },
+        {
+          "name": "Port-a-Fortress",
+          "chance": 0.025
+        },
+        {
+          "name": "Chug Jug",
+          "chance": 0.021
+        },
+        {
+          "name": "Bush",
+          "chance": 0.019
+        }
+      ],
+      [
+        {
+          "name": "Wood",
+          "chance": 0.47600000000000003
+        },
+        {
+          "name": "Stone",
+          "chance": 0.35700000000000004
+        },
+        {
+          "name": "Metal",
+          "chance": 0.16699999999999998
+        }
+      ]
+    ]
+  },
+  {
+    "label": "Dual Pistol",
+    "chance": 0.04,
+    "children": [
+      [
+        {
+          "name": "Dual Pistol (Epic)",
+          "chance": 0.8
+        },
+        {
+          "name": "Dual Pistol (Legendary)",
+          "chance": 0.2
+        }
+      ],
+      [
+        {
+          "name": "Medium Bullets",
+          "chance": 1
+        }
+      ],
+      [
+        {
+          "name": "Shield Potion",
+          "chance": 0.18899999999999997
+        },
+        {
+          "name": "Bandage",
+          "chance": 0.158
+        },
+        {
+          "name": "Grenade",
+          "chance": 0.126
+        },
+        {
+          "name": "Small Shield Potion",
+          "chance": 0.126
+        },
+        {
+          "name": "Med Kit",
+          "chance": 0.063
+        },
+        {
+          "name": "Clinger",
+          "chance": 0.063
+        },
+        {
+          "name": "Slurp Juice",
+          "chance": 0.051
+        },
+        {
+          "name": "Boogie Bomb",
+          "chance": 0.038
+        },
+        {
+          "name": "Port-a-Fort",
+          "chance": 0.032
+        },
+        {
+          "name": "Rift-To-Go",
+          "chance": 0.032
+        },
+        {
+          "name": "Grappler (Legendary)",
+          "chance": 0.032
+        },
+        {
+          "name": "Stink Bomb",
+          "chance": 0.025
+        },
+        {
+          "name": "Port-a-Fortress",
+          "chance": 0.025
+        },
+        {
+          "name": "Chug Jug",
+          "chance": 0.021
+        },
+        {
+          "name": "Bush",
+          "chance": 0.019
+        }
+      ],
+      [
+        {
+          "name": "Wood",
+          "chance": 0.47600000000000003
+        },
+        {
+          "name": "Stone",
+          "chance": 0.35700000000000004
+        },
+        {
+          "name": "Metal",
+          "chance": 0.16699999999999998
+        }
+      ]
+    ]
+  },
+  {
+    "label": "Hand Cannon",
+    "chance": 0.032,
+    "children": [
+      [
+        {
+          "name": "Hand Cannon (Epic)",
+          "chance": 0.8
+        },
+        {
+          "name": "Hand Cannon (Legendary)",
+          "chance": 0.2
+        }
+      ],
+      [
+        {
+          "name": "Heavy Bullets",
+          "chance": 1
+        }
+      ],
+      [
+        {
+          "name": "Shield Potion",
+          "chance": 0.18899999999999997
+        },
+        {
+          "name": "Bandage",
+          "chance": 0.158
+        },
+        {
+          "name": "Grenade",
+          "chance": 0.126
+        },
+        {
+          "name": "Small Shield Potion",
+          "chance": 0.126
+        },
+        {
+          "name": "Med Kit",
+          "chance": 0.063
+        },
+        {
+          "name": "Clinger",
+          "chance": 0.063
+        },
+        {
+          "name": "Slurp Juice",
+          "chance": 0.051
+        },
+        {
+          "name": "Boogie Bomb",
+          "chance": 0.038
+        },
+        {
+          "name": "Port-a-Fort",
+          "chance": 0.032
+        },
+        {
+          "name": "Rift-To-Go",
+          "chance": 0.032
+        },
+        {
+          "name": "Grappler (Legendary)",
+          "chance": 0.032
+        },
+        {
+          "name": "Stink Bomb",
+          "chance": 0.025
+        },
+        {
+          "name": "Port-a-Fortress",
+          "chance": 0.025
+        },
+        {
+          "name": "Chug Jug",
+          "chance": 0.021
+        },
+        {
+          "name": "Bush",
+          "chance": 0.019
+        }
+      ],
+      [
+        {
+          "name": "Wood",
+          "chance": 0.47600000000000003
+        },
+        {
+          "name": "Stone",
+          "chance": 0.35700000000000004
+        },
+        {
+          "name": "Metal",
+          "chance": 0.16699999999999998
+        }
+      ]
+    ]
+  },
+  {
+    "label": "Rocket",
+    "chance": 0.032,
+    "children": [
+      [
+        {
+          "name": "Grenade Launcher (Rare)",
+          "chance": 0.578
+        },
+        {
+          "name": "Rocket Launcher (Epic)",
+          "chance": 0.235
+        },
+        {
+          "name": "Grenade Launcher (Epic)",
+          "chance": 0.077
+        },
+        {
+          "name": "Guided Missile (Epic)",
+          "chance": 0.046
+        },
+        {
+          "name": "Rocket Launcher (Legendary)",
+          "chance": 0.033
+        },
+        {
+          "name": "Grenade Launcher (Legendary)",
+          "chance": 0.019
+        },
+        {
+          "name": "Guided Missile (Legendary)",
+          "chance": 0.012
+        }
+      ],
+      [
+        {
+          "name": "Rockets",
+          "chance": 1
+        }
+      ],
+      [
+        {
+          "name": "Shield Potion",
+          "chance": 0.18899999999999997
+        },
+        {
+          "name": "Bandage",
+          "chance": 0.158
+        },
+        {
+          "name": "Grenade",
+          "chance": 0.126
+        },
+        {
+          "name": "Small Shield Potion",
+          "chance": 0.126
+        },
+        {
+          "name": "Med Kit",
+          "chance": 0.063
+        },
+        {
+          "name": "Clinger",
+          "chance": 0.063
+        },
+        {
+          "name": "Slurp Juice",
+          "chance": 0.051
+        },
+        {
+          "name": "Boogie Bomb",
+          "chance": 0.038
+        },
+        {
+          "name": "Port-a-Fort",
+          "chance": 0.032
+        },
+        {
+          "name": "Rift-To-Go",
+          "chance": 0.032
+        },
+        {
+          "name": "Grappler (Legendary)",
+          "chance": 0.032
+        },
+        {
+          "name": "Stink Bomb",
+          "chance": 0.025
+        },
+        {
+          "name": "Port-a-Fortress",
+          "chance": 0.025
+        },
+        {
+          "name": "Chug Jug",
+          "chance": 0.021
+        },
+        {
+          "name": "Bush",
+          "chance": 0.019
+        }
+      ],
+      [
+        {
+          "name": "Wood",
+          "chance": 0.47600000000000003
+        },
+        {
+          "name": "Stone",
+          "chance": 0.35700000000000004
+        },
+        {
+          "name": "Metal",
+          "chance": 0.16699999999999998
+        }
+      ]
+    ]
+  },
+  {
+    "label": "Minigun",
+    "chance": 0.023,
+    "children": [
+      [
+        {
+          "name": "Minigun (Epic)",
+          "chance": 0.667
+        },
+        {
+          "name": "Minigun (Legendary)",
+          "chance": 0.33299999999999996
+        }
+      ],
+      [
+        {
+          "name": "Light Bullets",
+          "chance": 1
+        }
+      ],
+      [
+        {
+          "name": "Shield Potion",
+          "chance": 0.18899999999999997
+        },
+        {
+          "name": "Bandage",
+          "chance": 0.158
+        },
+        {
+          "name": "Grenade",
+          "chance": 0.126
+        },
+        {
+          "name": "Small Shield Potion",
+          "chance": 0.126
+        },
+        {
+          "name": "Med Kit",
+          "chance": 0.063
+        },
+        {
+          "name": "Clinger",
+          "chance": 0.063
+        },
+        {
+          "name": "Slurp Juice",
+          "chance": 0.051
+        },
+        {
+          "name": "Boogie Bomb",
+          "chance": 0.038
+        },
+        {
+          "name": "Port-a-Fort",
+          "chance": 0.032
+        },
+        {
+          "name": "Rift-To-Go",
+          "chance": 0.032
+        },
+        {
+          "name": "Grappler (Legendary)",
+          "chance": 0.032
+        },
+        {
+          "name": "Stink Bomb",
+          "chance": 0.025
+        },
+        {
+          "name": "Port-a-Fortress",
+          "chance": 0.025
+        },
+        {
+          "name": "Chug Jug",
+          "chance": 0.021
+        },
+        {
+          "name": "Bush",
+          "chance": 0.019
+        }
+      ],
+      [
+        {
+          "name": "Wood",
+          "chance": 0.47600000000000003
+        },
+        {
+          "name": "Stone",
+          "chance": 0.35700000000000004
+        },
+        {
+          "name": "Metal",
+          "chance": 0.16699999999999998
+        }
+      ]
+    ]
+  }
+]
