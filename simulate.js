@@ -173,7 +173,7 @@ function kitForLoot(loot) {
   var bestMed = null
   var secondBest = null
   Object.keys(shields).forEach((shield) => {
-    const count = shields[shield]
+    const count = Math.min(shields[shield], shieldValue[shield].stack)
     if (count > 0) {
       if (bestMed == null) {
         bestMed = {'item': shield, 'count': count};
@@ -263,16 +263,21 @@ function rankLocation(location) {
   }
 }
 
-var rankedLocations = Object.keys(locations).map((location) => {
-  return rankLocation(location);
-});
+function rankAllLocations() {
+  var rankedLocations = Object.keys(locations).map((location) => {
+    return rankLocation(location);
+  });
 
-rankedLocations.sort(function(a, b) {
-  if (a.Kitted > b.Kitted) {
-    return -1
-  } else {
-    return 1
-  }
-})
+  rankedLocations.sort(function(a, b) {
+    if (a.Kitted > b.Kitted) {
+      return -1
+    } else {
+      return 1
+    }
+  })
 
-console.log(JSON.stringify(rankedLocations, null, 2))
+  return rankedLocations;
+}
+
+
+console.log(JSON.stringify(rankAllLocations(), null, 2))
